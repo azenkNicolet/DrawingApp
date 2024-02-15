@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DrawingApp</string>
+    <string name="wait_string">Please wait while file is saved...</string>
+</resources>
